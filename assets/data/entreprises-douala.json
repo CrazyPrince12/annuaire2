@@ -1,0 +1,324 @@
+{
+  "entreprises": [
+    {
+      "id": "dla-001",
+      "nom": "Port Autonome de Douala",
+      "secteur": "Transport maritime & Logistique",
+      "categorie": "SA",
+      "hashtags": [
+        "#port",
+        "#logistique",
+        "#commerce-international"
+      ],
+      "description": "Autorité portuaire qui administre la principale plateforme maritime du Cameroun et facilite les échanges régionaux.",
+      "description_en": "Port authority managing Cameroon’s main maritime gateway and supporting regional trade flows.",
+      "image": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0434,
+      "longitude": 9.6878,
+      "adresse": "Zone portuaire de Bonabéri, Douala",
+      "telephone": "+237 233 42 01 33",
+      "siteweb": "https://www.pad.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-002",
+      "nom": "MTN Cameroon (Siège Douala)",
+      "secteur": "Télécommunications",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#mobile-money",
+        "#internet"
+      ],
+      "description": "Opérateur mobile majeur proposant voix, données, fibre, services numériques et solutions Mobile Money.",
+      "description_en": "Major mobile operator offering voice, data, fibre, digital services and Mobile Money solutions.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0529,
+      "longitude": 9.7066,
+      "adresse": "Rue Joss, Bonanjo, Douala",
+      "telephone": "+237 680 83 00 00",
+      "siteweb": "https://www.mtn.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-003",
+      "nom": "Orange Cameroun (Direction Générale)",
+      "secteur": "Télécommunications",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#orange-money",
+        "#fibre"
+      ],
+      "description": "Entreprise télécom fournissant réseau mobile, internet, fibre et services financiers digitaux au Cameroun.",
+      "description_en": "Telecom company delivering mobile network, internet, fibre and digital financial services in Cameroon.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0484,
+      "longitude": 9.7043,
+      "adresse": "Immeuble Orange, Rue Joss, Bonanjo, Douala",
+      "telephone": "+237 233 41 00 00",
+      "siteweb": "https://www.orange.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-004",
+      "nom": "Guinness Cameroun S.A.",
+      "secteur": "Brasserie & Boissons",
+      "categorie": "Usine",
+      "hashtags": [
+        "#brasserie",
+        "#industrie",
+        "#boissons"
+      ],
+      "description": "Acteur industriel historique de la production et distribution de boissons maltées et spiritueux au Cameroun.",
+      "description_en": "Long-standing industrial producer and distributor of malt drinks and spirits in Cameroon.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0645,
+      "longitude": 9.7349,
+      "adresse": "Bassa, Douala",
+      "telephone": "+237 233 37 10 00",
+      "siteweb": "https://www.guinnesscameroon.com",
+      "verifie": true
+    },
+    {
+      "id": "dla-005",
+      "nom": "Société Anonyme des Brasseries du Cameroun",
+      "secteur": "Brasserie & Agro-industrie",
+      "categorie": "Usine",
+      "hashtags": [
+        "#brasserie",
+        "#agroindustrie",
+        "#distribution"
+      ],
+      "description": "Groupe brassicole national produisant bières, boissons gazeuses, eaux minérales et jus distribués dans tout le pays.",
+      "description_en": "National brewing group producing beers, soft drinks, mineral water and juices distributed nationwide.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0831,
+      "longitude": 9.7433,
+      "adresse": "Quartier Ndokoti, Douala",
+      "telephone": "+237 233 40 33 00",
+      "siteweb": "https://www.lesbrasseriesducameroun.com",
+      "verifie": true
+    },
+    {
+      "id": "dla-006",
+      "nom": "Dangote Cement Cameroon",
+      "secteur": "Ciment & Matériaux de construction",
+      "categorie": "Usine",
+      "hashtags": [
+        "#ciment",
+        "#construction",
+        "#industrie"
+      ],
+      "description": "Unité industrielle de broyage et distribution de ciment pour les chantiers et infrastructures camerounaises.",
+      "description_en": "Industrial grinding and cement distribution unit serving construction and infrastructure projects in Cameroon.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0563,
+      "longitude": 9.6612,
+      "adresse": "Base Elf, Douala-Bonabéri",
+      "telephone": "+237 233 39 18 00",
+      "siteweb": "https://www.dangotecement.com",
+      "verifie": true
+    },
+    {
+      "id": "dla-007",
+      "nom": "Société Générale Cameroun",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#finance",
+        "#entreprises"
+      ],
+      "description": "Banque universelle accompagnant particuliers, PME et grandes entreprises avec services de crédit et de paiement.",
+      "description_en": "Universal bank serving individuals, SMEs and corporates with credit and payment services.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0497,
+      "longitude": 9.7008,
+      "adresse": "78 Rue Joss, Bonanjo, Douala",
+      "telephone": "+237 233 42 12 50",
+      "siteweb": "https://societegenerale.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-008",
+      "nom": "Afriland First Bank (Agence Bonanjo)",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#finance",
+        "#pme"
+      ],
+      "description": "Groupe bancaire camerounais offrant comptes, crédit, monétique, banque digitale et accompagnement des entreprises.",
+      "description_en": "Cameroonian banking group offering accounts, loans, cards, digital banking and business support.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0492,
+      "longitude": 9.7057,
+      "adresse": "Boulevard de la Liberté, Bonanjo, Douala",
+      "telephone": "+237 233 43 53 23",
+      "siteweb": "https://www.afrilandfirstbank.com",
+      "verifie": true
+    },
+    {
+      "id": "dla-009",
+      "nom": "BICEC Douala Bonanjo",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#credit",
+        "#epargne"
+      ],
+      "description": "Banque commerciale active dans le financement des ménages, commerces, PME et opérations internationales.",
+      "description_en": "Commercial bank active in household, retail, SME financing and international operations.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0489,
+      "longitude": 9.7014,
+      "adresse": "Avenue du Général de Gaulle, Bonanjo, Douala",
+      "telephone": "+237 233 42 67 10",
+      "siteweb": "https://www.bicec.com",
+      "verifie": true
+    },
+    {
+      "id": "dla-010",
+      "nom": "Camtel Douala",
+      "secteur": "Télécommunications & Fibre",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#fibre",
+        "#reseau-national"
+      ],
+      "description": "Opérateur historique des télécommunications fixes, fibre optique, internet et infrastructures nationales.",
+      "description_en": "Historic fixed telecom operator for fibre, internet and national network infrastructure.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0545,
+      "longitude": 9.7101,
+      "adresse": "Akwa, Douala",
+      "telephone": "+237 222 23 40 65",
+      "siteweb": "https://www.camtel.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-011",
+      "nom": "Hôpital Général de Douala",
+      "secteur": "Santé",
+      "categorie": "SA",
+      "hashtags": [
+        "#sante",
+        "#hopital",
+        "#services"
+      ],
+      "description": "Établissement hospitalier de référence offrant soins spécialisés, urgences, imagerie et services de consultation.",
+      "description_en": "Reference hospital providing specialised care, emergency services, imaging and consultations.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0885,
+      "longitude": 9.7364,
+      "adresse": "Deido, Douala",
+      "telephone": "+237 233 37 06 54",
+      "siteweb": "",
+      "verifie": true
+    },
+    {
+      "id": "dla-012",
+      "nom": "Super U Douala Bonapriso",
+      "secteur": "Grande distribution",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#supermarche",
+        "#distribution",
+        "#commerce"
+      ],
+      "description": "Supermarché moderne proposant produits alimentaires, ménagers, frais, importés et services de proximité.",
+      "description_en": "Modern supermarket offering groceries, household goods, fresh produce, imported products and local services.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0216,
+      "longitude": 9.7069,
+      "adresse": "Boulevard de l'Unité, Bonapriso, Douala",
+      "telephone": "+237 233 42 79 30",
+      "siteweb": "",
+      "verifie": true
+    },
+    {
+      "id": "dla-013",
+      "nom": "Dovv Bonamoussadi",
+      "secteur": "Commerce & Distribution",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#supermarche",
+        "#retail",
+        "#quartier"
+      ],
+      "description": "Chaîne de supermarchés camerounaise fournissant épicerie, produits frais et biens de consommation courante.",
+      "description_en": "Cameroonian supermarket chain supplying groceries, fresh products and everyday consumer goods.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0897,
+      "longitude": 9.7435,
+      "adresse": "Bonamoussadi, Douala",
+      "telephone": "+237 233 47 63 00",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "dla-014",
+      "nom": "Boulangerie Meno Palace Bonapriso",
+      "secteur": "Boulangerie & Restauration",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#boulangerie",
+        "#patisserie",
+        "#restauration"
+      ],
+      "description": "Boulangerie-pâtisserie réputée pour pains, viennoiseries, restauration rapide et service traiteur urbain.",
+      "description_en": "Bakery and pastry shop known for breads, pastries, fast food and urban catering services.",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0201,
+      "longitude": 9.7062,
+      "adresse": "Bonapriso, Douala",
+      "telephone": "+237 233 42 09 66",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "dla-015",
+      "nom": "Jumia Cameroon Douala Hub",
+      "secteur": "E-commerce & Logistique",
+      "categorie": "SARL",
+      "hashtags": [
+        "#ecommerce",
+        "#livraison",
+        "#logistique"
+      ],
+      "description": "Plateforme e-commerce et hub logistique reliant vendeurs, clients et services de livraison en zone urbaine.",
+      "description_en": "E-commerce platform and logistics hub connecting sellers, customers and delivery services in urban areas.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0561,
+      "longitude": 9.7274,
+      "adresse": "Akwa, Douala",
+      "telephone": "+237 233 50 15 00",
+      "siteweb": "https://www.jumia.cm",
+      "verifie": true
+    },
+    {
+      "id": "dla-016",
+      "nom": "Marché Central de Douala",
+      "secteur": "Commerce général",
+      "categorie": "Marché",
+      "hashtags": [
+        "#marche",
+        "#commerce",
+        "#grossistes"
+      ],
+      "description": "Grand pôle commercial urbain réunissant détaillants, grossistes, importateurs et vendeurs de produits variés.",
+      "description_en": "Major urban trading hub gathering retailers, wholesalers, importers and diverse product sellers.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=900&q=80",
+      "latitude": 4.0532,
+      "longitude": 9.7046,
+      "adresse": "Akwa, Douala",
+      "telephone": "",
+      "siteweb": "",
+      "verifie": false
+    }
+  ]
+}

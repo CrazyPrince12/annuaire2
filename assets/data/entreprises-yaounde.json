@@ -1,0 +1,324 @@
+{
+  "entreprises": [
+    {
+      "id": "yde-001",
+      "nom": "Eneo Cameroon S.A. (Direction Générale)",
+      "secteur": "Énergie & Électricité",
+      "categorie": "SA",
+      "hashtags": [
+        "#energie",
+        "#infrastructure",
+        "#service-public"
+      ],
+      "description": "Concessionnaire majeur de la production, du transport et de la distribution d'électricité au Cameroun.",
+      "description_en": "Major concessionaire for electricity generation, transmission and distribution in Cameroon.",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8645,
+      "longitude": 11.518,
+      "adresse": "Avenue Charles de Gaulle, Quartier Hippodrome, Yaoundé",
+      "telephone": "+237 222 23 11 03",
+      "siteweb": "https://eneocameroon.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-002",
+      "nom": "Camtel Siège Social",
+      "secteur": "Télécommunications & Fibre",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#fibre",
+        "#infrastructure"
+      ],
+      "description": "Entreprise publique opérant le réseau national fibre, internet fixe, téléphonie et services numériques de connectivité.",
+      "description_en": "Public company operating national fibre, fixed internet, telephony and digital connectivity services.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8661,
+      "longitude": 11.5167,
+      "adresse": "Boulevard du 20 Mai, Yaoundé",
+      "telephone": "+237 222 23 40 65",
+      "siteweb": "https://www.camtel.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-003",
+      "nom": "Afriland First Bank Siège",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#finance",
+        "#entrepreneuriat"
+      ],
+      "description": "Institution bancaire camerounaise de premier plan, active dans le financement des entreprises et particuliers.",
+      "description_en": "Leading Cameroonian banking institution active in financing businesses and individuals.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8702,
+      "longitude": 11.5163,
+      "adresse": "Place de l'Indépendance, Yaoundé",
+      "telephone": "+237 222 23 30 68",
+      "siteweb": "https://www.afrilandfirstbank.com",
+      "verifie": true
+    },
+    {
+      "id": "yde-004",
+      "nom": "Société Générale Cameroun Yaoundé",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#services-financiers",
+        "#credit"
+      ],
+      "description": "Agence bancaire majeure pour comptes, crédits, paiements et opérations des institutions, PME et particuliers.",
+      "description_en": "Major bank branch for accounts, loans, payments and operations for institutions, SMEs and individuals.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8666,
+      "longitude": 11.5161,
+      "adresse": "Avenue Kennedy, Centre-ville, Yaoundé",
+      "telephone": "+237 222 22 14 36",
+      "siteweb": "https://societegenerale.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-005",
+      "nom": "BICEC Yaoundé Centre",
+      "secteur": "Banque & Finance",
+      "categorie": "SA",
+      "hashtags": [
+        "#banque",
+        "#epargne",
+        "#transfert"
+      ],
+      "description": "Banque commerciale offrant solutions d'épargne, crédit, transferts et accompagnement des professionnels.",
+      "description_en": "Commercial bank offering savings, credit, transfer solutions and support for professionals.",
+      "image": "https://images.unsplash.com/photo-1565373677928-90e963765eac?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8678,
+      "longitude": 11.5174,
+      "adresse": "Avenue Kennedy, Yaoundé",
+      "telephone": "+237 222 22 21 12",
+      "siteweb": "https://www.bicec.com",
+      "verifie": true
+    },
+    {
+      "id": "yde-006",
+      "nom": "Orange Cameroun Yaoundé",
+      "secteur": "Télécommunications",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#orange-money",
+        "#internet"
+      ],
+      "description": "Opérateur télécom fournissant services mobile, data, fibre et paiement digital à la capitale.",
+      "description_en": "Telecom operator delivering mobile, data, fibre and digital payment services in the capital.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8655,
+      "longitude": 11.5169,
+      "adresse": "Boulevard du 20 Mai, Yaoundé",
+      "telephone": "+237 222 23 04 90",
+      "siteweb": "https://www.orange.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-007",
+      "nom": "MTN Cameroon Yaoundé",
+      "secteur": "Télécommunications",
+      "categorie": "SA",
+      "hashtags": [
+        "#telecom",
+        "#mobile-money",
+        "#reseau"
+      ],
+      "description": "Agence et centre de service MTN pour connectivité mobile, internet et solutions financières numériques.",
+      "description_en": "MTN service centre for mobile connectivity, internet and digital financial solutions.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8692,
+      "longitude": 11.5185,
+      "adresse": "Avenue Kennedy, Yaoundé",
+      "telephone": "+237 680 83 00 00",
+      "siteweb": "https://www.mtn.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-008",
+      "nom": "CNPS Direction Générale",
+      "secteur": "Protection sociale",
+      "categorie": "SA",
+      "hashtags": [
+        "#social",
+        "#institution",
+        "#assurance"
+      ],
+      "description": "Organisme public chargé de la sécurité sociale, des prestations familiales et pensions des travailleurs affiliés.",
+      "description_en": "Public body managing social security, family benefits and pensions for registered workers.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.872,
+      "longitude": 11.5178,
+      "adresse": "Place de l'Indépendance, Yaoundé",
+      "telephone": "+237 222 23 40 00",
+      "siteweb": "https://www.cnps.cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-009",
+      "nom": "SABC Yaoundé",
+      "secteur": "Brasserie & Distribution",
+      "categorie": "Usine",
+      "hashtags": [
+        "#brasserie",
+        "#distribution",
+        "#boissons"
+      ],
+      "description": "Site et réseau de distribution des Brasseries du Cameroun pour boissons, eaux et produits de grande consommation.",
+      "description_en": "Brasseries du Cameroun site and distribution network for beverages, water and consumer goods.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8863,
+      "longitude": 11.517,
+      "adresse": "Mvan, Yaoundé",
+      "telephone": "+237 222 30 52 00",
+      "siteweb": "https://www.lesbrasseriesducameroun.com",
+      "verifie": true
+    },
+    {
+      "id": "yde-010",
+      "nom": "Hilton Yaoundé",
+      "secteur": "Hôtellerie & Tourisme",
+      "categorie": "SA",
+      "hashtags": [
+        "#hotel",
+        "#tourisme",
+        "#evenementiel"
+      ],
+      "description": "Hôtel international au centre de Yaoundé accueillant voyageurs d'affaires, conférences et événements officiels.",
+      "description_en": "International hotel in central Yaounde serving business travellers, conferences and official events.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8616,
+      "longitude": 11.5169,
+      "adresse": "Boulevard du 20 Mai, Yaoundé",
+      "telephone": "+237 222 23 36 46",
+      "siteweb": "https://www.hilton.com",
+      "verifie": true
+    },
+    {
+      "id": "yde-011",
+      "nom": "Canal+ Store Yaoundé",
+      "secteur": "Médias & Divertissement",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#media",
+        "#television",
+        "#abonnement"
+      ],
+      "description": "Point de service pour abonnements TV, décodeurs, assistance clients et offres audiovisuelles Canal+.",
+      "description_en": "Service point for TV subscriptions, decoders, customer support and Canal+ audiovisual offers.",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8672,
+      "longitude": 11.5166,
+      "adresse": "Centre-ville, Yaoundé",
+      "telephone": "+237 243 50 55 55",
+      "siteweb": "https://www.canalplus-afrique.com/cm",
+      "verifie": true
+    },
+    {
+      "id": "yde-012",
+      "nom": "Dovv Bastos",
+      "secteur": "Grande distribution",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#supermarche",
+        "#retail",
+        "#alimentation"
+      ],
+      "description": "Supermarché de quartier proposant produits alimentaires, frais, hygiène, maison et consommation courante.",
+      "description_en": "Neighbourhood supermarket offering groceries, fresh products, hygiene, household and everyday goods.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8893,
+      "longitude": 11.5141,
+      "adresse": "Bastos, Yaoundé",
+      "telephone": "+237 222 20 11 08",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "yde-013",
+      "nom": "Casino Supermarché Yaoundé",
+      "secteur": "Grande distribution",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#supermarche",
+        "#distribution",
+        "#import"
+      ],
+      "description": "Enseigne de distribution urbaine proposant alimentation, produits frais, articles ménagers et références importées.",
+      "description_en": "Urban retail brand offering food, fresh produce, household items and imported products.",
+      "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8631,
+      "longitude": 11.5202,
+      "adresse": "Centre commercial, Yaoundé",
+      "telephone": "+237 222 21 85 40",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "yde-014",
+      "nom": "Boulangerie Le Bon Pain Bastos",
+      "secteur": "Boulangerie & Pâtisserie",
+      "categorie": "Commerce",
+      "hashtags": [
+        "#boulangerie",
+        "#patisserie",
+        "#cafe"
+      ],
+      "description": "Boulangerie-pâtisserie appréciée pour pains, viennoiseries, gâteaux et service café dans le quartier Bastos.",
+      "description_en": "Bakery and pastry shop valued for breads, pastries, cakes and café service in Bastos.",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8881,
+      "longitude": 11.5136,
+      "adresse": "Bastos, Yaoundé",
+      "telephone": "+237 699 55 12 12",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "yde-015",
+      "nom": "Marché Mokolo",
+      "secteur": "Commerce général",
+      "categorie": "Marché",
+      "hashtags": [
+        "#marche",
+        "#grossistes",
+        "#textile"
+      ],
+      "description": "Grand marché populaire de Yaoundé, centre de vente pour textile, vivres, accessoires et petits commerces.",
+      "description_en": "Large popular market in Yaounde for textiles, food products, accessories and small businesses.",
+      "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8798,
+      "longitude": 11.5059,
+      "adresse": "Mokolo, Yaoundé",
+      "telephone": "",
+      "siteweb": "",
+      "verifie": false
+    },
+    {
+      "id": "yde-016",
+      "nom": "Centre Pasteur du Cameroun",
+      "secteur": "Santé & Laboratoire",
+      "categorie": "SA",
+      "hashtags": [
+        "#sante",
+        "#laboratoire",
+        "#recherche"
+      ],
+      "description": "Centre de référence pour analyses médicales, vaccinations, santé publique, surveillance épidémiologique et recherche.",
+      "description_en": "Reference centre for medical tests, vaccinations, public health, epidemiological surveillance and research.",
+      "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=80",
+      "latitude": 3.8685,
+      "longitude": 11.5097,
+      "adresse": "Rue 2005, Yaoundé",
+      "telephone": "+237 222 23 10 15",
+      "siteweb": "https://www.pasteur-yaounde.org",
+      "verifie": true
+    }
+  ]
+}

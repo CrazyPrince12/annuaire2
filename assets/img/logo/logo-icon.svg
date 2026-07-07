@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="CONGLOMERAT icon">
+  <defs>
+    <linearGradient id="cm" x1="15" y1="15" x2="85" y2="85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007A5E"/><stop offset=".52" stop-color="#CE1126"/><stop offset="1" stop-color="#FCD116"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#FCD116" flood-opacity=".55"/></filter>
+  </defs>
+  <path d="M50 5C30 5 16 20 16 39c0 25 28 51 34 56 6-5 34-31 34-56C84 20 70 5 50 5z" fill="#FCD116" filter="url(#glow)"/>
+  <circle cx="50" cy="38" r="20" fill="#0A0E12" opacity=".18"/>
+  <g>
+    <rect x="28" y="40" width="11" height="30" rx="2" fill="#007A5E"/>
+    <rect x="43" y="29" width="13" height="41" rx="2" fill="#CE1126"/>
+    <rect x="60" y="35" width="12" height="35" rx="2" fill="#FCD116"/>
+  </g>
+  <path d="M49.5 39.2l1.5 4.6h4.8l-3.9 2.8 1.5 4.6-3.9-2.8-3.9 2.8 1.5-4.6-3.9-2.8H48z" fill="#FCD116"/>
+  <g fill="#fff" opacity=".9"><rect x="31" y="46" width="3" height="4"/><rect x="31" y="55" width="3" height="4"/><rect x="64" y="43" width="3" height="4"/><rect x="64" y="53" width="3" height="4"/></g>
+</svg>

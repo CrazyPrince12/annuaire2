@@ -1,0 +1,34 @@
+{
+  "villes": [
+    {
+      "id": "douala",
+      "nom": "Douala",
+      "nom_en": "Douala",
+      "region": "Littoral",
+      "icone": "fa-building",
+      "center": [
+        4.0511,
+        9.7679
+      ],
+      "zoom": 12,
+      "fichier": "assets/data/entreprises-douala.json",
+      "description": "Capitale économique du Cameroun, poumon industriel et portuaire du pays.",
+      "description_en": "Economic capital of Cameroon, industrial and port hub of the country."
+    },
+    {
+      "id": "yaounde",
+      "nom": "Yaoundé",
+      "nom_en": "Yaounde",
+      "region": "Centre",
+      "icone": "fa-landmark",
+      "center": [
+        3.848,
+        11.5021
+      ],
+      "zoom": 12,
+      "fichier": "assets/data/entreprises-yaounde.json",
+      "description": "Capitale politique et administrative, siège des grandes institutions.",
+      "description_en": "Political and administrative capital, home to major institutions."
+    }
+  ]
+}
